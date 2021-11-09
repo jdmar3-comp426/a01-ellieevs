@@ -1,0 +1,65 @@
+  body {
+    background-color: lightblue;
+  }
+  
+  h1 {
+    color: #000080;
+    margin-left: 20px;
+    background-color: #FFFF00;
+  }
+
+  h2 {
+    color: #000080;
+    margin-left: 20px;
+    background-color: #FFFF00;
+  }
+
+  div {
+    border-color: #FF0000;
+  }
+
+  ul {
+    font-size: small;
+  }
+
+  li {
+    font-size: medium;
+  }
+
+  body {
+    color: #000080;
+    margin-left: 20px;
+    background-color: #FFFF00;
+  }
+
+  title {
+    color: #000080;
+    margin-left: 20px;
+    background-color: #FFFF00;
+  }
+
+  a[href="https://example.com"] {
+    margin-left: 100px;
+   }
+
+   p::first-line { 
+    width: 50%;
+    height: 300px;
+   }
+
+   p.intro {
+    font: large;
+   }
+
+    #tinygnomes { 
+        color: #FFC0CB;
+    }
+
+    a:hover {
+        color:#00FF00;
+      }
+
+
+
+
+
